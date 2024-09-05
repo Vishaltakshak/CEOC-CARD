@@ -37,13 +37,6 @@ const LoginBody = () => {
     <>
       <ToastContainer />
       <div className="top-spacing flex justify-content-center align-item-center" >
-        <div className="container-fluid pe-0 ps-0">
-          {/* errors block show */}
-          {/* <div class="col-md-12 text-center">
-						<div class="flash flash-danger">reCAPTCHA verification failed</div>
-					</div> */}
-          {/* errors block show */}
-        </div>
         <div className="container login-container flex justify-content-center">
           <div className="row d-flex justify-content-center">
             {/* <div className="col-xl-6 col-lg-6 col-md-7 col-sm-12 col-12"> */}

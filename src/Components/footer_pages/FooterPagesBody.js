@@ -5,7 +5,7 @@ const PagesBody = (props) => {
 	return (
 		<>
 			<div className="container-fluid footerpages-container top-spacing" style={{minHeight: props.BGHEIGHT}}>
-				<div className="container">
+				<div className="container footerPageCareerHeight">
 					<div className="row d-flex justify-content-center">
 						{props.children}
 					</div>

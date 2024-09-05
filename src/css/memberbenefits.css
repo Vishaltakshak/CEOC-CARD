@@ -11,20 +11,30 @@ h6,
 p {
 	font-family: 'Montserrat', sans-serif !important;
 } */
+.Member-benefit-con-color{
+	background-color: #d9d9d9;
 
+}
 .benefits-block-parent
 {
 	background-color: #EEE;
 	padding-top:40px;
-	padding-bottom:0px;
+	padding-bottom:9%;
 }
 .benefits-block-parent.benefits-block-parent-white
 {
-	background-color: #fff;
+
+	background-color: #000000;
+}
+.benefits-block-parent-white h1{
+	color: #000;
+	font-weight: 700;
 }
 .benefits-block-parent .member-benefit-block
 {
 	margin-bottom:40px;
+	padding-top: 20px;
+	background-color: #d9d9d9;
 }
 .benefits-block-parent  .member-benefit-block-parent
 {

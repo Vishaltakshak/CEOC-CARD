@@ -9,7 +9,7 @@ const Careers = () => {
     <>
       <LoginHeader></LoginHeader>
       <PagesBody>
-        <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12  footerpages-container-child common-pages-body">
+        <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12  footerpages-container-child common-pages-body ">
           <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-12">
             <h1 className="common-pages-text">Careers</h1>
             <br></br>
@@ -133,7 +133,7 @@ const Careers = () => {
           {/* repeate block 3*/}
 
           {/* repeate block 2 */}
-          <div class="col-xl-12 career-box">
+          <div class="col-xl-12 career-box last-career-box">
             <div className="row row justify-content-center align-items-center">
               <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-7">
                 <h3 class="career-post">Travel and Lifestyle Concierge</h3>

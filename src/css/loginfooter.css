@@ -21,6 +21,7 @@ p {
   text-align: center;
   padding: 45px 0;
   color: #0d0d0d;
+  overflow: hidden;
 }
 .login-footer p {
   color: #000000;

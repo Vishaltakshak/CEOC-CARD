@@ -1,7 +1,7 @@
 .browse-hotels-container
 {
-  margin-top:50px;
-  margin-bottom:50px;
+  
+  padding: 50px 0 50px 0;
 }
 .browse-hotels-container .browse-hotels-title
 {
@@ -9,7 +9,7 @@
   font-weight: 600;
   margin-top:0px;
   margin-bottom:30px;
-  color:#000;
+  color:#ffffff;
   text-transform: capitalize;
   text-align: center;
 }

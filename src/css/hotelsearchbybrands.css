@@ -1,7 +1,7 @@
 
 .suggestion-list
 {
-	background-color: #fff;
+	background-color: #000000;
 	padding-top:40px;
 	padding-bottom:0px;
 }
@@ -69,7 +69,7 @@ margin-top:10px;
 }
 .suggestion-block .suggestion-title-container a h5 {
 	font-size:16px;
-	color:#000;
+	color:#ffffff;
     font-weight: 500;
 	margin-top: 7px;
     margin-bottom: 7px;
@@ -80,7 +80,7 @@ margin-top:10px;
  .suggestion-block .suggestion-description-container
 {
     font-size: 13px;
-	color:#000000;
+	color:#ffffff;
     min-height: 40px;
 }
 

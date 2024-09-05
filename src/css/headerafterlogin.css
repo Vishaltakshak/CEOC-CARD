@@ -59,10 +59,12 @@ a, a:hover, a:focus {
 	margin-left: 10px;
     line-height:normal;
     margin-right: 10px;
-    background-color: #037DC2;
+    background-color: #0C6DFF;
 	border-radius: 0;
 	border:none;
 	text-transform: uppercase;
+    
+    
 }
 .nav-container .div-sett
 {
@@ -80,11 +82,17 @@ a, a:hover, a:focus {
     top: 0;
     right: 30px;
 }
-.nav-container .afterlogin-nav .logo-size-setting
+.nav-container .afterlogin-nav .logo-size-setting{
+    position: fixed;
+    top: 0;
+    left: 50%;
+}
+.nav-container .afterlogin-nav .logo-size-setting p
 {
 	/* width: 277px; */
-    width: 60px;
-    height:auto;
+    font-size: 1rem;
+    color: white;
+    font-weight: 700;
 }
 .nav-container .afterlogin-nav .margin-top-15
 {
@@ -502,9 +510,11 @@ z-index: 99;
         line-height: inherit;
         font-size:28px;
         padding-left: 0;
+        margin: 0;
         position: absolute;
         border:none;
         left: 0;
+        top: 0;
     }
     .nav-container  .navbar-toggler:focus
     {
@@ -739,6 +749,7 @@ display:none;
         padding-left: 0;
         position: absolute;
         left: 0;
+        top: 0;
     }
     .nav-container  .navbar-toggler:focus
     {
@@ -970,6 +981,7 @@ display:none;
         position: absolute;
         left: 0;
         line-height: inherit;
+        top: 0;
     }
     .nav-container  .navbar-toggler:focus
     {

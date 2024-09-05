@@ -3,7 +3,7 @@
 {
   padding-top:50px;
   padding-bottom:50px;
-  background-color: #EEE;
+  background-color: #D9D9D9;
 }
 .hotels-fav-container .hotels-fav-row-tab-inner
 {
@@ -86,6 +86,7 @@ padding-right: 0;
 .benefits-block-parent.benefits-block-parent-favourites
 {
 padding-top:30px;
+background-color: #D9D9D9;
 }
 .btn-fav-view-more-box
 {

@@ -1,7 +1,7 @@
 
 .browse-category-bg
 {
-  background-color: #fff;
+  background-color: #000000;
   padding:10px 30px;
 }
 
@@ -12,7 +12,8 @@
   margin-bottom:0px;
   margin-top:0px;
   text-transform: capitalize;
-  color:#000;
+  color:#ffffff;
+  
 }
 
 .browse-category-item .browse-category-item-left
@@ -45,13 +46,13 @@
   padding: 5px 60px;
     font-size: 14px;
 }
-.browse-category-item .browse-category-info h3.browse-category-info-title
+.browse-category-item .browse-category-info h3.browse-category-info-title a
 {
   font-weight: 700;
   font-size: 20px;
   margin-top:10px;
   margin-bottom:10px;
-  color:#000;
+  color:#ffffff;
   text-transform: capitalize;
 }
 .browse-category-item .browse-category-info h3.browse-category-info-title a:hover
@@ -61,7 +62,7 @@
 .browse-category-item .browse-category-info p.browse-category-info-para
 {
   font-size: 14px;
-  color:#000;
+  color:#ffffff;
   margin-bottom: 10px;
   line-height: 1.42857143;
 }

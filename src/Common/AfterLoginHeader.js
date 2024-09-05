@@ -47,13 +47,23 @@ const AfterLoginHeader = ({ allMenu }) => {
               : "navbar navbar-expand-lg navbar-static-top afterlogin-nav"
           }
         >
+          <Link className="navbar-brand" to="/homeafterlogin">
+            <div className="logo-size-setting"> <p>CEO CARD</p> </div>
+                  {/* <img
+                    className="logo-size-setting"
+                    src="././assets/img/ceo-logo-white.png"
+                    alt="Logo"
+                    // width={"58px"}
+                    // height={50}
+                  ></img> */}
+                </Link>
           <div className="div-sett">
             <div className="afterlogin-nav-header">
-              <div className="navbar-explore-upgrade d-xl-block d-lg-block d-md-none d-sm-none d-none">
+              {/* <div className="navbar-explore-upgrade d-xl-block d-lg-block d-md-none d-sm-none d-none"> */}
                 <Link className="btn btn-explore" to="/homeafterlogin">
                   Explore elite
                 </Link>
-              </div>
+              {/* </div> */}
 
 
               {/* header menu after membership expired */}
@@ -248,15 +258,7 @@ const AfterLoginHeader = ({ allMenu }) => {
                   </span>
                 </button>
 
-                <Link className="navbar-brand" to="/homeafterlogin">
-                  <img
-                    className="logo-size-setting"
-                    src="././assets/img/ceo-logo-white.png"
-                    alt="Logo"
-                    // width={"58px"}
-                    // height={50}
-                  ></img>
-                </Link>
+                
               </div>
             </div>
             <div

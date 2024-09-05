@@ -3,16 +3,21 @@
 {
 	margin-top:52px;
 }
+.footerPageCareerHeight{
+	height: auto;
+	
+	background-color: #000000c0;
+}
 .footerpages-container
 {
-	background: url("../../public/assets/img/Loginfooter/privacy-background-image.jpeg") top left no-repeat fixed;
+	background: url("../../public/assets/img/building4\ 2.png") top left no-repeat fixed;
     background-size: cover;
 	/* background-color: #01326a; */
 }
 .footerpages-container-child
 {
 	padding:30px 60px;    
-	background-color: #121111ca;
+	background-color: #121111ae;
 }
 .footerpages-container  a {
     color: #337ab7;
@@ -120,13 +125,17 @@
 {
 	padding:20px;
 	border: 1px solid #CCC;
+	background-color: white;
+	margin:3% auto auto auto;
+	width: 90%;
+	border-radius: 5px;
 }
 
 
 .footerpages-container-child2
 {
 	padding:0px;    
-	background-color: #ffffff;
+	
 }
 .footerpages-container-child2 .career-box,
 .footerpages-container-child2 .career-box-details
@@ -140,6 +149,9 @@
 	border:none;
 	text-align:left;
 	font-size:14px;
+	background-color: #ffffffc7;
+    width: 90%;
+	margin: 0 auto 3% auto;
 }
 
 .footerpages-container-child2 .career-box .career-post
@@ -174,10 +186,13 @@
 }
 
 
-
+.last-career-box{
+	margin: 3% auto 3% auto !important;
+}
 .partenership-box [aria-hidden="true"] {
 	display: none;
   }
+
 
 @media only screen and (max-width: 767px) {
 
