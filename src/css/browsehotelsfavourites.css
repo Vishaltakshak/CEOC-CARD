@@ -3,7 +3,7 @@
 {
   padding-top:50px;
   padding-bottom:50px;
-  background-color: #D9D9D9;
+  background-color: #000000;
 }
 .hotels-fav-container .hotels-fav-row-tab-inner
 {
@@ -74,9 +74,9 @@ padding-right: 0;
 .scroll-container .nav-tabs.hotels-nav-tabs a.custom-nav-item.active, 
 .scroll-container .nav-tabs.hotels-nav-tabs a.custom-nav-item.active:focus, 
 .scroll-container .nav-tabs.hotels-nav-tabs a.custom-nav-item.active:hover {
-  color: #555;
+  color: #000000;
   cursor: default;
-  background-color: rgba(216, 216, 216, 0.65) !important;
+  background-color: rgb(255, 255, 255) !important;
   border: 1px solid rgba(216, 216, 216, 0.65);
   border-radius: 3px;
   border-bottom:none;
@@ -86,7 +86,7 @@ padding-right: 0;
 .benefits-block-parent.benefits-block-parent-favourites
 {
 padding-top:30px;
-background-color: #D9D9D9;
+background-color: #000000;
 }
 .btn-fav-view-more-box
 {
