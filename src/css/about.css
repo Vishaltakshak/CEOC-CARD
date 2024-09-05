@@ -56,7 +56,8 @@
   justify-content: center;
 }
 .redesign-home-about-section {
-  height: 70vh;
+  height: auto;
+  max-height: 70%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
