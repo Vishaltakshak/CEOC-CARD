@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import SearchSingleSuggestion from "./SearchSingleSuggestion";
 import '../css/browsebycategoryresult.css';
 import '../css/searchsinglesuggestion.css';
+import "../css/testimonial.css";
 const BrowseByCategoryResult = ({sharedState,setSharedState,handlesharedState}) => {
 	
 	return (
@@ -27,11 +28,17 @@ const BrowseByCategoryResult = ({sharedState,setSharedState,handlesharedState}) 
 				</div>
 				
 
-				<div className="row result-option-container suggestion-list">
+				<div className=" result-option-container suggestion-list testimonial-container">
+					<div className="test-slider flex">
 					<SearchSingleSuggestion></SearchSingleSuggestion>
 					<SearchSingleSuggestion></SearchSingleSuggestion>
 					<SearchSingleSuggestion></SearchSingleSuggestion>
 					<SearchSingleSuggestion></SearchSingleSuggestion>
+					<SearchSingleSuggestion></SearchSingleSuggestion>
+					<SearchSingleSuggestion></SearchSingleSuggestion>
+					<SearchSingleSuggestion></SearchSingleSuggestion>
+					<SearchSingleSuggestion></SearchSingleSuggestion>
+					</div>
 				</div>
 			</div>
 		</>

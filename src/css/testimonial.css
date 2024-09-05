@@ -203,23 +203,39 @@ body {
 
 .testimonial-container {
   display: flex;
+  flex-wrap: wrap;
   position: relative;
   width: 100vh; 
-  animation: slide 12s infinite; 
+  animation: slide 15s infinite; 
+
 }
 
 .testimonial {
   display: flex;
-  width: 35vw; 
-  height: 40vh;
+  /* width: 35vw; 
+  height: 40vh; */
+  flex: 0 0 auto;
+    width: 50%; /* 2 tiles per row on all screens */
+    max-width: 300px;
   background: #D9D9D9;
   border: 1px solid #ccc;
   border-radius: 10px;
   margin: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   text-align: center;
+  
+}
+@media (min-width: 768px) {
+  .testimonial{
+      width: calc(33.33% - 20px); 
+  }
 }
 
+@media (min-width: 1024px) {
+  .testimonial {
+      width: calc(25% - 20px); 
+  }
+}
 .testimonial-title {
   text-align: center;
   margin-bottom: 20px;

@@ -57,6 +57,7 @@ padding-right: 0;
 .scroll-container .nav-tabs.hotels-nav-tabs a.custom-nav-item
 {
   color: #000;
+  background-color: white !important;
   cursor: pointer;
   padding:4px 12px !important;
   font-weight:500;
