@@ -497,6 +497,20 @@ z-index: 99;
 /* css for menu display after membership expired */
 
 
+@media (max-width: 990px) {
+    .nav-container .afterlogin-nav .btn.btn-explore {
+        
+        margin: -1% 1% 0% 5%;
+        left: 40%;
+    }
+}
+@media (max-width: 738px) {
+    .nav-container .afterlogin-nav .btn.btn-explore {
+        
+        margin: -1% 10% 0% 3rem;
+        
+    }
+}
 
 @media only screen and (max-width: 767px) {
 
