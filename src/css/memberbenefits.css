@@ -24,7 +24,7 @@ p {
 
 .benefits-block-parent.benefits-block-parent-white
 {
-
+	overflow-x: hidden;
 	background-color: #000000;
 }
 .benefits-block-parent-white h1{

@@ -37,7 +37,7 @@
 .slick-list {
   position: relative;
   display: block;
-  overflow: hidden;
+  /* overflow: hidden; */
   margin: 0;
   padding: 0;
 }
@@ -131,7 +131,7 @@
 .slick-slide{
   display: flex;
   flex-wrap: wrap;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 
@@ -193,23 +193,21 @@ body {
 
 }
 .test-slider{
+  width: auto;
   display: flex;
-  position: absolute;
+  position: relative;
   transition: transform 0.3s ease;
 }
 .testimonial-members {
   width: 85vw;
   margin: auto;
-
 }
 
 .testimonial-container {
   display: flex;
   flex-wrap: wrap;
   position: relative;
-  width: 100%; 
-
-  overflow-x: auto;
+  width: auto; 
   animation: slide 15s infinite; 
 
 }
@@ -219,8 +217,8 @@ body {
   /* width: 35vw; 
   height: 40vh; */
   flex: 0 0 auto;
-    width: 50%; /* 2 tiles per row on all screens */
-    max-width: 60%;
+  width: 50%; 
+  max-width: 60%;
   background: #D9D9D9;
   border: 1px solid #ccc;
   border-radius: 10px;
@@ -252,7 +250,6 @@ body {
   50% { transform: translateX(-200%); } 
   70% { transform: translateX(-200%); } 
   75% { transform: translateX(-300%); } 
-  100% { transform: translateX(0
-    ); }
+  100% { transform: translateX(0); }
   
 }
