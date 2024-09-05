@@ -201,6 +201,7 @@ body {
 .testimonial-members {
   width: 85vw;
   margin: auto;
+  overflow: hidden;
 }
 
 .testimonial-container {
