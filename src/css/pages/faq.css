@@ -74,6 +74,9 @@ padding:0;
     {
         display:none;
     } */
+    .faq-container .faq-sidebar-result {
+        margin-top: 3%;
+    }
     .faq-container .faq-sidebar,
     .faq-container .faq-sidebar-result {
         padding: 10px;
@@ -130,6 +133,9 @@ padding:0;
     {
         display:none;
     } */
+    .faq-container .faq-sidebar-result {
+        margin-top: 3%;
+    }
     .faq-container .faq-sidebar,
     .faq-container .faq-sidebar-result {
         padding: 10px;

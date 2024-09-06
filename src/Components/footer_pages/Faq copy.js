@@ -20,7 +20,7 @@ const Faq = () => {
 			<LoginHeader></LoginHeader>
 			<PagesBody>
 				<div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12  footerpages-container-child common-pages-body faq-container">
-					<div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-12">
+					<div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-12" style={{backgroundColor:"white"}}>
 						<div className="row">
 							<div className="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 ">
 								<div className="faq-sidebar">
