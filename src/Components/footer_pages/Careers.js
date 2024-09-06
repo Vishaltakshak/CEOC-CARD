@@ -27,7 +27,7 @@ const Careers = () => {
           {/* repeate block 1 */}
           <div class="col-xl-12 career-box">
             <div className="row row justify-content-center align-items-center">
-              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-7">
+              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-5">
                 <h3 class="career-post">Business Development Manager</h3>
               </div>
               <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5 col-5 btn-text-right">
@@ -63,7 +63,7 @@ const Careers = () => {
           {/* repeate block 2 */}
           <div class="col-xl-12 career-box">
             <div className="row row justify-content-center align-items-center">
-              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-7">
+              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-5">
                 <h3 class="career-post">Travel and Lifestyle Concierge</h3>
               </div>
               <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5 col-5 btn-text-right">
@@ -99,7 +99,7 @@ const Careers = () => {
           {/* repeate block 3 */}
           <div class="col-xl-12 career-box">
             <div className="row row justify-content-center align-items-center">
-              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-7">
+              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-5">
                 <h3 class="career-post">Travel and Lifestyle Concierge</h3>
               </div>
               <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5 col-5 btn-text-right">
@@ -135,7 +135,7 @@ const Careers = () => {
           {/* repeate block 2 */}
           <div class="col-xl-12 career-box last-career-box">
             <div className="row row justify-content-center align-items-center">
-              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-7">
+              <div className="col-xl-9 col-lg-9 col-md-8 col-sm-7 col-5">
                 <h3 class="career-post">Travel and Lifestyle Concierge</h3>
               </div>
               <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5 col-5 btn-text-right">
