@@ -44,7 +44,7 @@ const App = () => {
   const isLoggedIn = sessionStorage.getItem("isLoggedIn");
   return (
     <>
-      <div className="App">
+      <div className="App" style={{overflow:"hidden"}}>
         <BrowserRouter>
           <AllPageScrollToTop>
             <Routes>
