@@ -7,7 +7,7 @@ import '../css/memberbenefits.css';
 const SubmenuBenefits = () => {
 	return (
 		<>
-			<div className="container-fluid benefits-block-parent" style={{backgroundColor:"#ffffff"}}>
+			<div className="container-fluid benefits-block-parent" style={{backgroundColor:"#000"}}>
 				
 				<div className="container pe-0 ps-0">
 					<SubmenuPageHeading submenupagetopic="Benefits Similar to Etihad Airways" submenupagesubtopic=""></SubmenuPageHeading>

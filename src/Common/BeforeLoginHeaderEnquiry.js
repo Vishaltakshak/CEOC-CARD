@@ -12,6 +12,7 @@ const BeforeLoginHeaderEnquiry = (props) => {
                 className="logo-size"
                 src="././assets/img/ceo-logo-black.png"
                 alt="Logo"
+                style={{filter:"invert(1)"}}
               ></img>
             </a>
 
@@ -31,7 +32,7 @@ const BeforeLoginHeaderEnquiry = (props) => {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
               <ul className="navbar-nav beforelogin-navbar ms-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <a className="nav-link" href="#enquiryFaq" style={{color:"#000000"}}>
+                  <a className="nav-link" href="#enquiryFaq" style={{color:"#fff"}}>
                     <strong>Faq</strong>{" "}
                   </a>
                 </li>

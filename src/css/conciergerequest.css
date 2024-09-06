@@ -2,7 +2,7 @@
 .footerpages-container .common-pages-text-request {
     font-size: 28px;
     font-weight: 700;
-    color: black;
+    color: rgb(255, 255, 255);
     text-transform: capitalize;
 }
 .conceirge-request-form label.request-label
@@ -10,7 +10,7 @@
     margin-bottom: 5px;
     font-weight: 700;
 	font-size: 15px;
-	color:#000000;
+	color:#ffffff;
 	text-transform: inherit;
 }
 .conceirge-request-form label.request-label span i.bi

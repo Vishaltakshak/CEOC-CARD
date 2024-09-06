@@ -8,7 +8,8 @@
   height: 315px;
 } */
 .share-exp-box {
-  background-color: #FCFCFC;
+  background-color: #000000;
+  color: #fff !important;
 }
 .share-exp-box .comment-box-parent
 {
@@ -45,7 +46,7 @@
 font-size: 18px;
 font-weight: 500;
 margin-bottom: 10px;
-color:#000;
+color:#ffffff;
 text-transform: inherit;
 }
 .share-exp-box .comment-box .comment-text-box .comment-text-box-h5
@@ -53,7 +54,7 @@ text-transform: inherit;
   font-size: 14px;
   font-weight: 500;
   margin-bottom: 10px;
-  color:#000;
+  color:#ffffff;
   text-transform: capitalize;
 }
 
@@ -108,11 +109,11 @@ text-transform: inherit;
     padding-left: 0;
     font-size:14px;
     font-weight: 500;
-    color:#000;
+    color:#ffffff;
 }
 .share-exp-box .add-comment-box  form.add-comment-form  label
 {
-  font-size:14px;color:#000;
+  font-size:14px;color:#ffffff;
 }
 
 

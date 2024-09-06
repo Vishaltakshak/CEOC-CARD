@@ -51,7 +51,7 @@ const SubcategorySlider = () => {
 	  };
 	return (
 		<>
-			<div className="container-fluid submenu-container subcategpory-slider pe-0 ps-0">
+			{/* <div className="container-fluid submenu-container subcategpory-slider pe-0 ps-0">
 				<div className="col-xl-12">
 					<Slider {...settings}>
 						<div>
@@ -71,7 +71,7 @@ const SubcategorySlider = () => {
 						</div>
 					</Slider>
 				</div>
-			</div>
+			</div> */}
 		</>
 		
 	);
