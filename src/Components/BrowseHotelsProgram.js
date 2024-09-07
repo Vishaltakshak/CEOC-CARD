@@ -36,7 +36,7 @@ const BrowseHotelsProgram = () => {
 
 							<div className="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 hotels-program-child">
 								<div className="hotels-program-child-img">
-									<img alt="Program" className="reowned-program-img" src="././assets/img/hotel3.png"/>
+									<img alt="Program" className="reowned-program-img" src="././assets/img/hotel4.jpg"/>
 								</div>
 								<div className="hotels-program-child-img-detail">
 									<h3>Flexible cancellation</h3>

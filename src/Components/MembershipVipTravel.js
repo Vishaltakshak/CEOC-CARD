@@ -4,7 +4,7 @@ import HomeButton from "./HomeButton";
 //import MembershipDetails from "./MembershipDetails";
 import '../css/home.css';
 
-const Image = '././assets/img/female-tourists.png';
+const Image = '././assets/img/female-tour.png';
 const MembershipVipTravel = () => {
 	return (
 		<>
