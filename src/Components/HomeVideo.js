@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 //import BgVideo from '././assets/img/vid-bg.mp4';
 import '../css/home.css';
 
-const BgVideo = '././assets/img/vid-bg.mp4';
+const BgVideo = '././assets/img/about/about-cards';
 const DivLogo1 = '././assets/img/homelogo1.png';
 const DivLogo2 = '././assets/img/homelogo2.png';
 const DivLogo3 = '././assets/img/homelogo3.png';
@@ -11,9 +11,11 @@ const HomeVideo = () => {
 	return (
 		<>
 			<div className="video-overlay1">
-				<video autoPlay loop muted className="bg-vid1"> 
+				{/* <video autoPlay loop muted className="bg-vid1"> 
 					<source src={BgVideo} type="video/mp4" /> 
-				</video>
+				</video> */}
+				
+
 			</div>
 			
 			<div className="video-details1 text-center">

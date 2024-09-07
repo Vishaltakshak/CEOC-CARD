@@ -10,9 +10,9 @@ const CommunitySingleBlock = () => {
                 {/* repeate block */}
                 <div className="community-block-inner portrait">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block1.png"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/community-main1.png"></img>
 
-                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community-block1-hover.png"></img>
+                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/community-main1"></img>
 
 
                         <Link className="community-block-overlay" to="/#" target="_blank">
@@ -42,9 +42,9 @@ const CommunitySingleBlock = () => {
                  {/* repeate block */}
                  <div className="community-block-inner portrait">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block2.jpg"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community2.png"></img>
 
-                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community-block2-hover.jpg"></img>
+                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community2-hover.png"></img>
 
 
                         <Link className="community-block-overlay" to="/#" target="_blank">
@@ -75,9 +75,9 @@ const CommunitySingleBlock = () => {
                  {/* repeate block */}
                  <div className="community-block-inner portrait">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block1.png"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/community-main1.png"></img>
 
-                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community-block1-hover.png"></img>
+                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/community-main1.png"></img>
 
 
                         <Link className="community-block-overlay" to="/#" target="_blank">
@@ -108,9 +108,9 @@ const CommunitySingleBlock = () => {
                 {/* repeate block */}
                 <div className="community-block-inner portrait">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block1.png"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/community-main1.png"></img>
 
-                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community-block1-hover.png"></img>
+                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/community-main1-hover.png"></img>
 
 
                         <Link className="community-block-overlay" to="/#" target="_blank">
@@ -141,9 +141,9 @@ const CommunitySingleBlock = () => {
                  {/* repeate block */}
                  <div className="community-block-inner featured">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block1.png"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/biggerimg.png"></img>
 
-                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community-block1-hover.png"></img>
+                        <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community2.png"></img>
 
 
                         <Link className="community-block-overlay" to="/#" target="_blank">
@@ -174,7 +174,7 @@ const CommunitySingleBlock = () => {
                 {/* repeate block */}
                 <div className="community-block-inner featured">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block1.png"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/biggerimg.png"></img>
 
                         <video autoPlay loop muted className="community-block-video community-hoverimage">
                             <source src="https://d2q86wmri3hsp2.cloudfront.net/system/benefits/featured_videos/000/001/303/original/lacure.mp4" type="video/mp4" />
@@ -209,7 +209,7 @@ const CommunitySingleBlock = () => {
                 {/* repeate block */}
                 <div className="community-block-inner portrait">
                     <div className="community-block-media-inner">
-                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/COMMUNITY/community-block1.png"></img>
+                        <img  className="community-block-img primary-image" alt="community" src="././assets/img/community-main1.png"></img>
 
                         <img className="community-block-img community-hoverimage" alt="community" src="././assets/img/COMMUNITY/community-block1-hover.png"></img>
 

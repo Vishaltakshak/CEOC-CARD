@@ -16,7 +16,7 @@ const BrowseByCategoryTopBanner = ({ allMenuNav }) => {
               className="browse-category-img"
               style={{
                 backgroundImage:
-                  "url('https://d2920d93lyqeaf.cloudfront.net/images/picture_gallery_items/images/6987/large_sixt.com-rent-a-car-for-business-sixt-products-rent.jpg')",
+                  "url('././assets/img/car.png')",
               }}
             >
               <Link to="/#" target="_blank">

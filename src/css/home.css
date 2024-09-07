@@ -92,6 +92,9 @@ p {
 	-ms-flex-align: center;
 	align-items: center;
 	text-align: center;
+	background-image: url(../../public/assets/img/About/about-cards.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .video-overlay1:before {

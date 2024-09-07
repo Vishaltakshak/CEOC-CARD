@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import '../css/homevideo.css';
 
-const BgVideo = '././assets/img/vid-bg.mp4';
+const BgVideo = '././assets/img/afterloginhero.mp4';
 
 
 const InsideHomeVideo = () => {

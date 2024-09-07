@@ -15,7 +15,7 @@ const BrowseHotelsProgram = () => {
 						<div className="row">
 							<div className="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 hotels-program-child">
 								<div className="hotels-program-child-img">
-									<img alt="Program" className="reowned-program-img" src="././assets/img/partners/program1.jpg"/>
+									<img alt="Program" className="reowned-program-img" src="././assets/img/hotel1.png"/>
 								</div>
 								<div className="hotels-program-child-img-detail">
 									<h3>Member-only hotel rates</h3>
@@ -26,7 +26,7 @@ const BrowseHotelsProgram = () => {
 
 							<div className="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 hotels-program-child">
 								<div className="hotels-program-child-img">
-									<img alt="Program" className="reowned-program-img" src="././assets/img/partners/program2.jpg"/>
+									<img alt="Program" className="reowned-program-img" src="././assets/img/hotel2.png"/>
 								</div>
 								<div className="hotels-program-child-img-detail">
 									<h3>Complimentary upgrades</h3>
@@ -36,7 +36,7 @@ const BrowseHotelsProgram = () => {
 
 							<div className="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 hotels-program-child">
 								<div className="hotels-program-child-img">
-									<img alt="Program" className="reowned-program-img" src="././assets/img/partners/program3.jpg"/>
+									<img alt="Program" className="reowned-program-img" src="././assets/img/hotel3.png"/>
 								</div>
 								<div className="hotels-program-child-img-detail">
 									<h3>Flexible cancellation</h3>
