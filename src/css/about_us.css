@@ -390,6 +390,38 @@ p {
   text-align: end;
   text-align: right;
 }
+.about-us-keyoffering{
+  margin-right: 4%;
+}
+@media only screen and (min-device-width: 200px) and (max-device-width: 767px){
+  .key-offering-con{
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-us-keyoffering{
+    order: 1;
+    width: 70%;
+  }
+  .about-us-keyoffering h1{
+    text-align: center;
+    width: auto;
+    font-size:2rem;
+  }
+  .key-offering-list{
+    order: 2;
+  }
+}
+@media only screen and  (max-device-width:1005px) {
+  .about-us-keyoffering{
+    
+    width: 70%;
+  }
+  .about-us-keyoffering h1{
+    margin-right:4% ;
+    width: auto;
+    }
+  
+}
 
 .redesign-home-sub-hero {
   margin-bottom: 20px;

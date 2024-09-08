@@ -74,7 +74,7 @@ const About_us = () => {
                     unique needs, recognizing the critical role executives play
                     in driving organisational success.
                   </p>
-                  <div className="flex justify-content-center">
+                  <div className="flex justify-content-center key-offering-con">
                     <div className="about-us-keyoffering">
                        <h1>
                         KEY OFFERINGS
@@ -84,7 +84,7 @@ const About_us = () => {
                       <strong>Key Offerings:</strong>
                     </p> */}
   
-                    <div className="col-lg-4 col-md-4">
+                    <div className="col-lg-4 col-md-4 key-offering-list">
                     <ul className="feature-list">
                       <li>Superior business travel perks</li>
                       <li>Luxury hotel accommodations</li>

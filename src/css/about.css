@@ -64,9 +64,10 @@
   align-items: center;
   align-items:center ;
   background-size: auto, cover;
-  padding: 5rem;
+  /* padding: 5rem; */
   /* width: 85vw; */
   margin: 7%;
+  padding: 3%;
 }
 
 .redesign-home-empty-column {
